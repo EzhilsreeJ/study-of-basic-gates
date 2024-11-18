@@ -12,13 +12,19 @@ Software – Quartus prime
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
-AND gate
-OR gate
-NOT gate
-NAND gate
-NOR gate
-Ex-OR gate
-Ex-NOR gate
+1.AND gate
+
+2.OR gate
+
+3.NOT gate
+
+4.NAND gate
+
+5.NOR gate
+
+6.Ex-OR gate
+
+7.Ex-NOR gate
 
  # AND gate  
 
